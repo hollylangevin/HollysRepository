@@ -1,3 +1,3 @@
 # HollysRepository
-share samples
-Illustrations
+Videos, illustrations, and technical writing samples
+
